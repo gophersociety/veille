@@ -5,6 +5,7 @@ Contient tous les sujets qui ont l'air intéressants et qu'on prévoit de creuse
 # WebAssembly
 
 [Vugu](http://www.vugu.org/) : framework de développement frontend webassembly en Go. Inspiré de Vue.
+[maxence-charriere/app](https://github.com/maxence-charriere/app) : A WebAssembly framework to build GUI with Go, HTML and CSS.
 
 # GUI
 
